@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx/22"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="hi.vidmot.BindingListenerController"
+      spacing="10">
+
+    <TextField fx:id="efri" promptText="Sláðu inn texta hér"/>
+    <Label fx:id="label"/>
+    <TextField fx:id="nedri" promptText="Sláðu inn texta hér"/>
+    <Label fx:id="uppercaseLabel" />
+</VBox>
