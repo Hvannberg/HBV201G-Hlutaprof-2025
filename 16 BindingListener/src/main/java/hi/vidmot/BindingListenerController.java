@@ -23,6 +23,12 @@ public class BindingListenerController {
     private Label uppercaseLabel;
 
     /**
+     * Sjálfgefinn smiður
+     */
+    public BindingListenerController() {
+        
+    }
+    /**
      * Setur upp bind reglu fyrir label sem inniheldur það sama og efri
      * og listener á nedri sem vaktar breytingu á nedri, setur í upper case og prentar á console
      */
