@@ -2,6 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+/src/main/java/beinagrind/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -11,6 +12,9 @@ target/
 *.iws
 *.iml
 *.ipr
+*/src/main/java/beinagrind/
+
+
 
 ### Eclipse ###
 .apt_generated
@@ -36,3 +40,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/src/main/java/beinagrind/
