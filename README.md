@@ -1,1 +1,1 @@
-Fylgigögn með Hlutaprófi í HBV201G 2025
+Fylgigögn og lausnir af Hlutaprófi í HBV201G 2025
